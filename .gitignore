@@ -4,9 +4,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
-!X_test.html
-!X_train.html
-!dummy.html
+X_test.html
+X_train.html
+dummy.html
 
 # Local History for Visual Studio Code
 .history/
